@@ -84,7 +84,7 @@ I joined the SMIF as Portfolio Manager in August 2024. This portfolio was establ
 
 ### 2. Sector Attribution
 
-![Sector Attribution](sector_attribution.png)
+![Sector Attribution](images/sector_attribution.png)
 
 **Key Insights:**
 - **XLK (Tech)**: 41.9% contribution - Far exceeded its weight
