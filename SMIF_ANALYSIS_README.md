@@ -72,7 +72,7 @@ I joined the SMIF as Portfolio Manager in August 2024. This portfolio was establ
 
 ### 1. Sector Concentration
 
-![Sector Concentration](sector_concentration.png)
+![Sector Concentration](images/sector_concentration.png)
 
 **Analysis:**
 - Technology dominates at 31.3% of portfolio
