@@ -98,7 +98,7 @@ I joined the SMIF as Portfolio Manager in August 2024. This portfolio was establ
 
 ### 3. Top Holdings
 
-![Top Holdings](top_holdings.png)
+![Top Holdings](images/top_holdings.png)
 
 **Position Analysis:**
 - **AAPL (9.15%)**: Largest position, 888% return
