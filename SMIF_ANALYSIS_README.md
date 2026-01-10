@@ -117,8 +117,6 @@ I joined the SMIF as Portfolio Manager in August 2024. This portfolio was establ
 
 ![Return Distribution](images/return_distribution.png) 
 
-I just analyzed 5 years of our $450K student fund's performance.  The finding: 84.4% win rate, but 31% concentrated in one sector.  Here's what the data revealed:  Portfolio Return: 85.91%  Where it came from: - Tech sector: 42% of gains (but only 31% of portfolio) - Top 3 stocks: 42% of gains (AAPL, UNH, META) - Top 10 stocks: 73% of total returns  The surprising part: We had 45 positions, but only 10 really mattered.  3 key insights: 1. High concentration = high returns AND high risk 2. 84.4% win rate means stock selection worked 3. Tech overweight paid off (but what if it reverses?)  My job now: Balance the wins with risk management.  Full analysis: https://github.com/therealchimaga/smif-portfolio-analysis  Context: I joined as portfolio manager in Aug 2024. This  analysis of the fund's historical performance guides my  rebalancing decisions going forward.  What would you do? Trim tech winners or let them ride?  #PortfolioManagement #RiskManagement #StudentFund  #QuantitativeAnalysis #DataDriven #ClarksonUniversity
-
 **Statistical Analysis:**
 - **Mean Return:** 1.91%
 - **Median Return:** 0.55%
