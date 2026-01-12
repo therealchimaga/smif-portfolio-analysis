@@ -1,5 +1,9 @@
 # SMIF Portfolio Analysis
-
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![Portfolio](https://img.shields.io/badge/Portfolio-$452K-blue)
+![Return](https://img.shields.io/badge/Return-85.91%25-brightgreen)
 **Clarkson University Student Managed Investment Fund**  
 **Portfolio Snapshot:** September 5, 2024  
 **Analysis Date:** January 11, 2026  
