@@ -437,21 +437,99 @@ The portfolio benefited from positioning correctly for technology leadership, gr
 
 The strong foundation, evidenced by Sharpe 2.76 and quality bias producing 84.4% win rate, provides flexibility. The analysis identifies specific exposures through scenario testing, quantifying technology correction at 8.7%, value rotation at 7.4%, momentum reversal at 9.5%, and recession at 19.8%. These quantified risks inform decisions about whether to maintain concentration or adjust positioning as market conditions evolve.
 
+# Portfolio Analysis Dashboard
+
+This repository contains comprehensive analysis and visualizations of a $500K+ investment portfolio managed across 11 sectors.
+
+## Overview
+
+The portfolio analysis demonstrates strategic positioning through DCF and relative valuation, identifying 15-30% mispricings through P/E analysis and the Gordon Growth Model. Sector rotation strategies were executed during Fed cuts using 90%+ cash conversion screening.
+
 ## Visual Analysis
 
-The analysis includes six comprehensive visualizations documenting portfolio characteristics:
+### 1. Correlation Matrix
+![Correlation Matrix](images/correlation_matrix.png)
 
-**Correlation Matrix:** Estimated correlations between top 15 holdings based on sector membership. Same-sector positions exhibit approximately 0.70 correlation while different sectors show 0.45. Technology positions cluster with high correlation, while healthcare and utilities provide diversification.
+Estimated correlations between top 15 holdings based on sector membership. Same-sector positions exhibit approximately 0.70 correlation while different sectors show 0.45. Technology positions cluster with high correlation, while healthcare and utilities provide diversification.
 
-**Sector Heatmap Dashboard:** Three-panel showing portfolio weights, active positioning versus S&P 500, and 2024-2025 performance. Technology's 37.8% weight and +9.7 percentage point overweight appear clearly alongside strong returns across both years.
+### 2. Sector Heatmap Dashboard
+![Sector Heatmap Dashboard](images/sector_heatmap_dashboard.png)
 
-**Position Size vs Risk Contribution:** Bubble chart plotting weight against risk contribution. Positions below diagonal contribute less risk than weight (efficient). AAPL, UNH, META fall into efficient territory, while CVS, UPS, DAL show inefficiency.
+Three-panel analysis showing:
+- Portfolio weights by sector
+- Active positioning versus S&P 500
+- 2024-2025 performance comparison
 
-**Factor Exposures Breakdown:** Four pie charts showing growth/value/blend (46.3% growth, 39.0% blend, 14.7% value), momentum distribution (27% high, 47.8% medium, 20.2% low, 5.1% negative), quality composition (53.2% high, 19.8% medium, 27% lower), and size allocation (26.9% mega, 37% large, 16.4% mid, 19.8% small).
+Technology's 37.8% weight and +9.7 percentage point overweight are clearly visible alongside strong returns across both years.
 
-**Winner vs Loser Distribution:** Horizontal bar chart showing 38 winners with average 22.5% CAGR versus 7 losers with average -10.8% CAGR. Asymmetry between large wins and small losses drives exceptional Sortino ratio.
+### 3. Position Size vs Risk Contribution
+![Position Size vs Risk](images/position_size_vs_risk.png)
 
-**Portfolio Composition Treemap:** Stacked rectangles representing top 20 holdings sized by weight and colored by sector. AAPL dominance at 9.15% visible, technology clustering clear, concentration patterns apparent.
+Bubble chart plotting weight against risk contribution. Positions below the diagonal contribute less risk than weight (efficient holdings). AAPL, UNH, and META fall into efficient territory, while CVS, UPS, and DAL show inefficiency.
+
+### 4. Factor Exposures Breakdown
+![Factor Exposures](images/factor_exposures_breakdown.png)
+
+Four pie charts showing:
+- **Growth/Value/Blend**: 46.3% growth, 39.0% blend, 14.7% value
+- **Momentum Distribution**: 27% high, 47.8% medium, 20.2% low, 5.1% negative
+- **Quality Composition**: 53.2% high, 19.8% medium, 27% lower
+- **Size Allocation**: 26.9% mega, 37% large, 16.4% mid, 19.8% small
+
+### 5. Winner vs Loser Distribution
+![Winner vs Loser Distribution](images/winner_loser_distribution.png)
+
+Horizontal bar chart showing 38 winners with average 22.5% CAGR versus 7 losers with average -10.8% CAGR. The asymmetry between large wins and small losses drives the portfolio's exceptional Sortino ratio.
+
+### 6. Portfolio Composition Treemap
+![Portfolio Composition](images/portfolio_composition_treemap.png)
+
+Stacked rectangles representing top 20 holdings sized by weight and colored by sector. AAPL's dominance at 9.15% is clearly visible, along with technology clustering and overall concentration patterns.
+
+### 7. Sector Attribution
+![Sector Attribution](images/sector_attribution.png)
+
+Sector-level performance attribution analysis showing contribution to overall portfolio returns.
+
+### 8. Sector Concentration
+![Sector Concentration](images/sector_concentration.png)
+
+Visualization of portfolio concentration across different sectors, highlighting diversification or concentration risk.
+
+### 9. Top Holdings
+![Top Holdings](images/top_holdings.png)
+
+Bar chart showing the largest positions in the portfolio by weight, providing quick insight into portfolio concentration at the individual security level.
+
+### 10. Return Distribution
+![Return Distribution](images/return_distribution.png)
+
+Histogram showing the distribution of returns across all holdings, illustrating the portfolio's risk-return profile and identifying outlier performances.
+
+## Key Metrics
+
+- **Portfolio Size**: $500K+
+- **Number of Sectors**: 11
+- **Winners**: 38 positions (avg 22.5% CAGR)
+- **Losers**: 7 positions (avg -10.8% CAGR)
+- **Largest Position**: AAPL at 9.15%
+- **Largest Sector**: Technology at 37.8%
+
+## Methodology
+
+Analysis conducted using:
+- DCF Valuation Models
+- Relative Valuation (P/E Analysis)
+- Gordon Growth Model
+- Sector Rotation Strategies
+- Cash Conversion Screening (90%+ threshold)
+
+## Contact
+
+**Rufaro Chimaga**  
+Email: chimagr@clarkson.edu  
+LinkedIn: [linkedin.com/in/rufaro-chimaga](https://linkedin.com/in/rufaro-chimaga)  
+GitHub: [github.com/chimagr](https://github.com/chimagr)
 
 ---
 
